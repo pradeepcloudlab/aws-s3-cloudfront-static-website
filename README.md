@@ -7,7 +7,17 @@ This project demonstrates how to host a static website using Amazon S3 and distr
 ## AWS Services Used
 - Amazon S3
 - Amazon CloudFront
-- Origin Access Control (OAC)
+- Origin Access Control (OAC
+
+## Project Structure
+
+```plaintext
+cloudfront-project/
+│
+├── index.html
+├── style.css
+└── README.md
+```
 
 ## Project Architecture
 
